@@ -7,6 +7,7 @@
     --ligth-color: #999999;
     --success-color: #5cb85c;
     --error-color: #d9534f;
+    --canada: #C40C0C;
 
 }
 * {
@@ -56,7 +57,7 @@ pre {
 }
 /* Navbar */
 .navbar {
-  background-color: var(--primary-color);
+  background-color: var(--canada);
   color: #fff;
   height: 70px;
 }
